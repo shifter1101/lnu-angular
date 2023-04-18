@@ -1,0 +1,10 @@
+<?php 
+<html>
+<head>
+</head>
+<body>
+	<h1>Email:2002292@lnu.edu.ph</h1>
+	<h3>Phone Number: 09123456789</h3>
+</body>
+</html>
+?>
